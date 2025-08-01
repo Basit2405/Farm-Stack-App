@@ -1,3 +1,4 @@
+"use client"
 import { useEffect } from "react";
 import { toast } from "react-toastify";
 import { useRouter } from "next/router";
